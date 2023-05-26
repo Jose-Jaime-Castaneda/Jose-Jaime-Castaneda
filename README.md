@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I´m currently working on my own projects.<br>🤝 I´m looking to collaborate with other developers.<br>🤓 I´m currently learning web development, more specific <br>      React.<br>✨ I´m looking for an chance to improve my skills and<br>      my knowledge as well.
+💻 I´m currently working on my own projects.<br>🤝 I´m looking to collaborate with other developers.<br>🤓 I´m currently learning web development, more specific React.<br>✨ I´m looking for an chance to improve my skills and my knowledge as well.
 
 
 ## 🌐 Socials:

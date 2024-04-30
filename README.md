@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I´m currently working at SUDISA as a Jr. Project Leader.<br>🤝 I´m also looking to collaborate with other developers and work on different proyects.<br>🤓 I´m currently learning about Next JS and Django.<br>✨ I´m looking for chances to improve my skills and my knowledge as well.
+💻 I´m currently working at SUDISA as a Jr. Project Leader.<br>🤝 I´m also looking to collaborate with other developers and work on different proyects.<br>🤓 I´m currently learning about Next JS and Node.<br>✨ I´m looking for chances to improve my skills and my knowledge as well.
 
 
 ## 🌐 Socials:
